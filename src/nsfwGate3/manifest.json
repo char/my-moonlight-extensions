@@ -6,8 +6,8 @@
   "meta": {
     "name": "nsfwGate3",
     "tagline": "sets nsfw gate to 3",
-    "description": "",
-    "authors": [],
-    "source": ""
+    "description": "don't worry kitten",
+    "authors": ["char"],
+    "source": "https://github.com/char/my-moonlight-extensions/blob/main/src/nsfwGate3"
   }
 }
