@@ -1,0 +1,14 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "precommit",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "Precommit",
+    "tagline": "Commit to a secret now; reveal it later",
+    "description": "Use /precommit to publish a SHA-256 commitment, then right-click your message to reveal the locally saved plaintext, timestamp, and nonce.",
+    "authors": ["char"],
+    "source": "https://github.com/char/my-moonlight-extensions/tree/main/src/precommit"
+  },
+  "dependencies": ["commands", "common", "contextMenu", "notices", "spacepack"]
+}
